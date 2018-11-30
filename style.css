@@ -1,3 +1,12 @@
 body{
 	background-image: url("https://cdn.dribbble.com/users/1972218/screenshots/4396859/stroke_pink_marioneta.gif");
 }
+
+title{
+	font-size: 200px;
+	color:blue;
+}
+h1 {
+	font-size: 50px;
+	color: blue;
+}
